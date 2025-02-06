@@ -1,0 +1,4 @@
+# gitignore file
+*:Zone.Identifier
+*.pyc
+__pycache__/
